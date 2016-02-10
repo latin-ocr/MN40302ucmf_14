@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40302ucmf_14_0008.png"; bbox 0 0 2429 3336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 187 345 1215 717">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 187 345 1215 717">
+     <span class='ocr_line' id='line_1_1' title="bbox 187 345 1215 717; baseline -0.018 -69"><span class='ocrx_word' id='word_1_1' title='bbox 187 345 1215 717; x_wconf 80' lang='lat' dir='ltr'><strong>Reekenberg</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 1298 1209 1596">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 194 1298 1209 1596">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 1298 1209 1596; baseline -0.024 0"><span class='ocrx_word' id='word_1_2' title='bbox 194 1298 970 1596; x_wconf 79' lang='lat' dir='ltr'>Problema</span> <span class='ocrx_word' id='word_1_3' title='bbox 1027 1383 1209 1579; x_wconf 81' lang='lat' dir='ltr'>ex</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 193 1764 1215 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 193 1764 1215 2158">
+     <span class='ocr_line' id='line_1_3' title="bbox 193 1764 1215 2158; baseline -0.035 -90"><span class='ocrx_word' id='word_1_4' title='bbox 193 1764 1119 2158; x_wconf 80' lang='lat' dir='ltr'>philologieu</span> <span class='ocrx_word' id='word_1_5' title='bbox 1206 1885 1215 2032; x_wconf 81' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1244 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1244 3336">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1244 3336; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1244 3336; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 206 2715 1061 3080">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 206 2715 1061 3080">
+     <span class='ocr_line' id='line_1_5' title="bbox 206 2715 1061 3080; baseline -0.027 -60"><span class='ocrx_word' id='word_1_7' title='bbox 206 2738 602 3080; x_wconf 74' lang='lat' dir='ltr'>Jena,</span> <span class='ocrx_word' id='word_1_8' title='bbox 685 2715 1061 3011; x_wconf 80' lang='lat'>1732</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
